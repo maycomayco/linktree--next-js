@@ -1,0 +1,33 @@
+{
+  "name": "mayco",
+  "avatar": "https://pbs.twimg.com/profile_images/1069342378677452800/g92tDtvy_400x400.jpg",
+  "links": [
+    {
+      "title": "personal website",
+      "url": "http://mayco.me",
+      "image": "http://mayco.me/images/mayco.png"
+    },
+    {
+      "title": "github",
+      "url": "",
+      "image": ""
+    }
+  ],
+  "social": [
+    {
+      "title": "twitter",
+      "url": "http://twitter.com/mayco",
+      "image": "http://twitter.com/mayco.png"
+    },
+    {
+      "title": "facebook",
+      "url": "http://facebook.com/mayco",
+      "image": "http://facebook.com/mayco.png"
+    },
+    {
+      "title": "linkedin",
+      "url": "http://linkedin.com/mayco",
+      "image": "http://linkedin.com/mayco.png"
+    }
+  ]
+}
