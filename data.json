@@ -3,12 +3,17 @@
   "avatar": "https://pbs.twimg.com/profile_images/1069342378677452800/g92tDtvy_400x400.jpg",
   "links": [
     {
-      "title": "personal website",
+      "title": "My Personal website",
       "url": "http://mayco.me",
       "image": "https://pbs.twimg.com/profile_images/1069342378677452800/g92tDtvy_400x400.jpg"
     },
     {
-      "title": "github",
+      "title": "My Github",
+      "url": "",
+      "image": ""
+    },
+    {
+      "title": "Instagram",
       "url": "",
       "image": ""
     }
